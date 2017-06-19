@@ -1,0 +1,5 @@
+videos/*.mp4
+frames/*
+!frames/README.md
+*.tar
+*.pyc
